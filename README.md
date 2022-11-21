@@ -42,6 +42,24 @@ G. Save each Google Sheets tab as a CSV file and upload to GitHub.
 
 See more in the tutorial https://handsondataviz.org/leaflet-storymaps-with-google-sheets.html
 
+## 2. Creating the Map
+
+A. Copy the GitHub template and publish your version with GitHub Pages.
+
+B. File > Make a Copy of Google Sheet template, Share, and Publish.
+
+C. Paste your Google Sheet browser address in two places in your GitHub repo.
+
+D. Update your Google Sheet Options tab info and refresh your live map.
+
+E. Geocode locations and customize new markers in the Points tab.
+
+F. Remove or display point, polygon, or polylines data and legends.
+
+G. Save each Google Sheets tab as a CSV file and upload to GitHub.
+
+See more in the tutorial https://handsondataviz.org/leaflet-maps-with-google-sheets.html
+
 ## Credits (and licenses)
 Adopted from code developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Connecticut Humanities and Trinity College, CT. Inspired by Code for Atlanta mapsfor.us (2016) https://github.com/codeforatlanta/mapsforus (BSD-3-Clause). Adapted from MUX Lab, Map Effects 100: https://github.com/muxlab/map-effects-100, see http://muxlab.github.io/map-effects-100/Leaflet/11_scroll-driven-map-navigation.html.
 
