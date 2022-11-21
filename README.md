@@ -9,22 +9,15 @@ Quilombola are the descendants of Afro-Brazilian slaves who escaped from slave p
 This app features the following key components:
 
 
-A STORYMAP which is enables the community to create beautiful digital scroll-based map narratives that can effect change, influence opinion, and create awareness.
+A ## STORYMAP which is enables the community to create beautiful digital scroll-based map narratives that can effect change, influence opinion, and create awareness.
 
-And MAP which provides a platform for the community to map and display important locations, sites, facilities, territories etc. using custom indigenous icons.
+And ## MAP which provides a platform for the community to map and display important locations, sites, facilities, territories etc. using custom indigenous icons.
 
-
-
-Customize your Leaflet story map with linked Google Sheets template and scrolling narrative.
-Supports images, audio and video embeddings, and Leaflet TileLayer/geojson overlays.
-
-<p align="center">
-  <img src="./leaflet-storymaps-demo.gif" title="Storymaps demo" width="100%" />
-</p>
 
 ## Live links (replace with your own)
-- Leaflet Map https://handsondataviz.github.io/leaflet-storymaps-with-google-sheets/
-- Google Sheets template https://docs.google.com/spreadsheets/d/1AO6XHL_0JafWZF4KEejkdDNqfuZWUk3SlNlQ6MjlRFM/edit#gid=0
+- Visibilidade Quilombola: https: https://douglasmbura.github.io/Visibility-Hackathon-WebApp
+- Storymap Google Sheets template: https://docs.google.com/spreadsheets/d/11VYnIz8YSabM5ZYOTRxm_RcDkle0GM5hScj22YyLnug/edit#gid=0
+-Map Google Sheets template:  
 
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
