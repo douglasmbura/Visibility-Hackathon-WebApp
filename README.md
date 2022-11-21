@@ -8,19 +8,18 @@ Quilombola are the descendants of Afro-Brazilian slaves who escaped from slave p
 
 This app features the following key components:
 
-
-A ## STORYMAP 
+## 1. STORYMAP 
 - Which is enables the community to create beautiful digital scroll-based map narratives that can effect change, influence opinion, and create awareness.
 
 And 
-## MAP 
+## 2.  MAP 
 - Which provides a platform for the community to map and display important locations, sites, facilities, territories etc. using custom indigenous icons.
 
 
 ## Live links (replace with your own)
-- Visibilidade Quilombola: https: https://douglasmbura.github.io/Visibility-Hackathon-WebApp
+- See Visibilidade Quilombola Live: https: https://douglasmbura.github.io/Visibility-Hackathon-WebApp
 - Storymap Google Sheets template: https://docs.google.com/spreadsheets/d/11VYnIz8YSabM5ZYOTRxm_RcDkle0GM5hScj22YyLnug/edit#gid=0
--Map Google Sheets template:  
+- Map Google Sheets template:  https://docs.google.com/spreadsheets/d/1KQb2OiF1JI-UbHZ-EEXWbzAGYWVWe04ShtPjNJKvPxI/edit#gid=0
 
 ## Create Your Own
 - See step-by-step tutorial in *Hands-On Data Visualization* https://HandsOnDataViz.org/leaflet-storymaps-with-google-sheets.html
@@ -39,7 +38,7 @@ See more in the tutorial https://handsondataviz.org/leaflet-storymaps-with-googl
 
 
 ## Credits (and licenses)
-Developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Connecticut Humanities and Trinity College, CT. Inspired by Code for Atlanta mapsfor.us (2016) https://github.com/codeforatlanta/mapsforus (BSD-3-Clause). Adapted from MUX Lab, Map Effects 100: https://github.com/muxlab/map-effects-100, see http://muxlab.github.io/map-effects-100/Leaflet/11_scroll-driven-map-navigation.html.
+Adopted from code developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Connecticut Humanities and Trinity College, CT. Inspired by Code for Atlanta mapsfor.us (2016) https://github.com/codeforatlanta/mapsforus (BSD-3-Clause). Adapted from MUX Lab, Map Effects 100: https://github.com/muxlab/map-effects-100, see http://muxlab.github.io/map-effects-100/Leaflet/11_scroll-driven-map-navigation.html.
 
 We use [Google Sheets API version 4](https://developers.google.com/sheets/api), with these open-source components:
 
