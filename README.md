@@ -24,7 +24,7 @@ And
 
 ## Create Your Own
 
-##1. Creating Storymap
+## 1. Creating Storymap
 
 A. Copy the GitHub template and publish your version with GitHub Pages.
 B. File > Make a Copy of Google Sheet template, Share, and Publish.
@@ -33,6 +33,7 @@ D. Update your Google Sheet Options tab info and refresh your live map.
 E. Add text, media, markers, and geocode locations in the Google Sheet Chapters tab.
 F. Optional: Add georeferenced historical map image or GeoJSON overlays.
 G. Save each Google Sheets tab as a CSV file and upload to GitHub.
+
 See more in the tutorial https://handsondataviz.org/leaflet-storymaps-with-google-sheets.html
 
 ## Credits (and licenses)
