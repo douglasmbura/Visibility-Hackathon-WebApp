@@ -4,9 +4,10 @@ Members of team Visbilidade that built this tool included: Douglas Mbura  (Found
 
 Quilombola are the descendants of Afro-Brazilian slaves who escaped from slave plantations that existed in Brazil until abolition in 1888. Due to geographic isolation, limitations to the access of the area in which they live in, and the lack of quality in the service when it is needed,these communities live in precarious health conditions.
 
+## Web-App Components
+
 This app features the following key components:
 
-(A DASHBOARD built in R to provide visualization tool to help the Quilombola community to communicate their data story with the rest of the world-shining a light on their health, economic, cultural and social impacts of the COVID-19 pandemic). 
 
 A STORYMAP which is enables the community to create beautiful digital scroll-based map narratives that can effect change, influence opinion, and create awareness.
 
