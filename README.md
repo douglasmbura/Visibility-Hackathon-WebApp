@@ -9,9 +9,12 @@ Quilombola are the descendants of Afro-Brazilian slaves who escaped from slave p
 This app features the following key components:
 
 
-A ## STORYMAP which is enables the community to create beautiful digital scroll-based map narratives that can effect change, influence opinion, and create awareness.
+A ## STORYMAP 
+- Which is enables the community to create beautiful digital scroll-based map narratives that can effect change, influence opinion, and create awareness.
 
-And ## MAP which provides a platform for the community to map and display important locations, sites, facilities, territories etc. using custom indigenous icons.
+And 
+## MAP 
+- Which provides a platform for the community to map and display important locations, sites, facilities, territories etc. using custom indigenous icons.
 
 
 ## Live links (replace with your own)
