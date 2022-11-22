@@ -1,7 +1,7 @@
 Setting,Customize,Hints
 Storymap Info,,"For help, see tutorial in HandsOnDataViz.org"
 Storymap Title,"""Climate Visibility” Story Map Demo",
-Storymap Subtitle,Add subtitle here<br><small>Scroll down <i class='fa fa-chevron-down'></i></small>,"Add your subtitle, or delete that portion"
+Storymap Subtitle,"""Visibilidade Quilombola"" is a web-based application that emerged first place winner of GEO Indigenous Hack4Covid19 Hackathon that was held in the year 2020 at the height of COVID 19 pandemic.<br><small>Scroll down <i class='fa fa-chevron-down'></i></small>","Add your subtitle, or delete that portion"
 Storymap Logo,media/geo-logo.png,Path to a logo image
 Google Analytics Tracking ID,,Sample format: UA-5488840-29
 Map Settings,,"For help, see tutorial in HandsOnDataViz.org"
