@@ -9,11 +9,11 @@ Quilombola are the descendants of Afro-Brazilian slaves who escaped from slave p
 
 ## Web-App Components
 ## Key Features:
--Scroll-driven navigation, using screen swipe, trackpad, or keyboard down-arrow.
+- Scroll-driven navigation, using screen swipe, trackpad, or keyboard down-arrow.
 
--Easy-to-learn template to create your own storymap. Upload text, point coordinates, zoom levels, and image links to a CSV generic spreadsheet.
+- Easy-to-learn template to create your own storymap. Upload text, point coordinates, zoom levels, and image links to a CSV generic spreadsheet.
 
--Images can be stored in local subfolder or pulled from an external URL.
+- Images can be stored in local subfolder or pulled from an external URL.
 
 - Works in modern browsers: Chrome, Firefox, Safari, Internet Explorer 9+.
 
