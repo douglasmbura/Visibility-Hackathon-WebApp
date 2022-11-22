@@ -1,14 +1,23 @@
 # Visibilidade Web Application
 "Visibilidade Quilombola" is a web-based application that emerged first place winner of GEO Indigenous Hack4Covid19 Hackathon that was held in the year 2020 at the height of COVID 19 pandemic. The web-mapping and data visualization tool solved the challenge that was submitted by Claudinete Cole de Souza - a leader of Quilombola community- who was seeking to develop an application that would allow the Quilombola community to tell a story of how COVID19 was affecting their lives. 
 
+Visibilidade is a fork and modified version of the original from https://github.com/JackDougherty/leaflet-storymap and has been customized with navigation bar and intuitive interface for a great user experience.
+
 Members of team Visbilidade that built this tool included: Douglas Mbura  (Founder and Chief Technology Officer of Geo-Appsmith from Kenya)  and Rasha Elnimeiry, (Epidemiologist and GIS data specialist from Sudan). Visibilidade Quilombola was created to help the Indigenous Quilombola community in Brazil to become more visible by enabling the community to easily and quickly share their story of how Covid-19 was affecting their lives.
 
 Quilombola are the descendants of Afro-Brazilian slaves who escaped from slave plantations that existed in Brazil until abolition in 1888. Due to geographic isolation, limitations to the access of the area in which they live in, and the lack of quality in the service when it is needed,these communities live in precarious health conditions.
 
 ## Web-App Components
+## Key Features:
+-Scroll-driven navigation, using screen swipe, trackpad, or keyboard down-arrow.
 
-This app features the following key components:
+-Easy-to-learn template to create your own storymap. Upload text, point coordinates, zoom levels, and image links to a CSV generic spreadsheet.
 
+-Images can be stored in local subfolder or pulled from an external URL.
+
+- Works in modern browsers: Chrome, Firefox, Safari, Internet Explorer 9+.
+
+This app has the following two parts/components:
 ## 1. STORYMAP 
 - Which is enables the community to create beautiful digital scroll-based map narratives that can effect change, influence opinion, and create awareness.
 
