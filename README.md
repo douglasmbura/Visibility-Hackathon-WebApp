@@ -31,7 +31,7 @@ And
 - Storymap Google Sheets template: https://docs.google.com/spreadsheets/d/11VYnIz8YSabM5ZYOTRxm_RcDkle0GM5hScj22YyLnug/edit#gid=0
 - Map Google Sheets template:  https://docs.google.com/spreadsheets/d/1KQb2OiF1JI-UbHZ-EEXWbzAGYWVWe04ShtPjNJKvPxI/edit#gid=0
 
-## Step-by-step Guide to Creating Your Own
+## Step-by-Step Guide to Creating Your Own
 
 ## 1. Creating Storymap
 
