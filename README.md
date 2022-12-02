@@ -27,21 +27,21 @@ And
 
 
 ## Live links (replace with your own)
-- See Visibilidade Quilombola Live: https: https://douglasmbura.github.io/Visibility-Hackathon-WebApp
-- Storymap Google Sheets template: https://docs.google.com/spreadsheets/d/11VYnIz8YSabM5ZYOTRxm_RcDkle0GM5hScj22YyLnug/edit#gid=0
-- Map Google Sheets template:  https://docs.google.com/spreadsheets/d/1KQb2OiF1JI-UbHZ-EEXWbzAGYWVWe04ShtPjNJKvPxI/edit#gid=0
+- See Visibilidade Quilombola [Live](https: https://douglasmbura.github.io/Visibility-Hackathon-WebApp)
+- [Storymap Google Sheets Template](https://docs.google.com/spreadsheets/d/11VYnIz8YSabM5ZYOTRxm_RcDkle0GM5hScj22YyLnug/edit#gid=0)
+- [Map Google Sheets template](https://docs.google.com/spreadsheets/d/1KQb2OiF1JI-UbHZ-EEXWbzAGYWVWe04ShtPjNJKvPxI/edit#gid=0)
 
 ## Step-by-Step Guide to Creating Your Own
 ## Requirements:
 Before you begin, you must have the following: 
 
-1. A Github account : https://github.com/
+1. A [Github account](https://github.com/)
 
-2. A Google Drive account : https://drive.google.com/
+2. A [Google Drive account](https://drive.google.com/)
 
-3. Make a Copy in Google Sheets of the Storymap Template: https://docs.google.com/spreadsheets/d/11VYnIz8YSabM5ZYOTRxm_RcDkle0GM5hScj22YyLnug/edit#gid=0 
+3. Make a Copy in Google Sheets of the [Storymap Template](https://docs.google.com/spreadsheets/d/11VYnIz8YSabM5ZYOTRxm_RcDkle0GM5hScj22YyLnug/edit#gid=0) 
 
-4. Make a Copy in Google Sheets of the Map Template: https://docs.google.com/spreadsheets/d/1KQb2OiF1JI-UbHZ-EEXWbzAGYWVWe04ShtPjNJKvPxI/edit#gid=0
+4. Make a Copy in Google Sheets of the [Map Template](https://docs.google.com/spreadsheets/d/1KQb2OiF1JI-UbHZ-EEXWbzAGYWVWe04ShtPjNJKvPxI/edit#gid=0)
 
 ## 1. Creating Storymap
 
