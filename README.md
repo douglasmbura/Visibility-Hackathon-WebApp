@@ -62,8 +62,15 @@ On the next screen, name your repo to ```visibility-hackathon-team-shiners``` or
 8. Delete the link to the our live site, as shown in Figure below, and paste in the link to your published site. Scroll down to Commit your changes.
 <img alt="leaflet-github-pages-main" src="https://user-images.githubusercontent.com/4737136/205361742-5a9db03c-4b28-40ba-a7dc-0baf66060e0a.png">
 
-
 ### B. File > Make a Copy of Google Sheet template, Share, and Publish.
+Follow this steps:
+1. Open the [Google Sheets Template](https://docs.google.com/spreadsheets/d/11VYnIz8YSabM5ZYOTRxm_RcDkle0GM5hScj22YyLnug/edit?pli=1#gid=0) in a new tab.
+2. Sign into your Google account, and select File > Make a Copy to save your own version of this Google Sheet on your Google Drive.
+3. Click the blue Share button, and click Change to anyone with the link, then click Done. This publicly shares your map data, which is required to make this template work.
+4. Go to File > Publish to the Web, and click the green Publish button to publish the entire document, so that the Leaflet code can read it. Then click the upper-right X symbol to close this window.
+5. At the top of your browser, copy your Google Sheet address or URL (which usually ends in ```...XYZ/edit#gid=0```), as shown in Figure below. Do NOT copy the Published to the web address (which usually ends in ```...XYZ/pubhtml```) because that link is slightly different and will not work in this template.
+<img width="653" alt="sheets-publish-annotated" src="https://user-images.githubusercontent.com/4737136/205365716-b16bf36e-79b5-4483-8358-560cee2134e6.png">
+
 
 ### C. Paste your Google Sheet browser address in two places in your GitHub repo.
 
