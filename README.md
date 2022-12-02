@@ -60,7 +60,11 @@ On the next screen, name your repo to ```visibility-hackathon-team-shiners``` or
 6. Scroll up to the top, and click on your repo name to go back to its main page.
 7. At the top level of your repo main page, click on README.md, and click the pencil icon to edit this file.
 8. Delete the link to the our live site, as shown in Figure 12.18, and paste in the link to your published site. Scroll down to Commit your changes.
-<img alt="leaflet-github-pages-main" src="[https://user-images.githubusercontent.com/4737136/205280569-17167b5d-fd0a-4991-a820-6c43f33f60cd.png](https://user-images.githubusercontent.com/4737136/205284067-9e1f7a7e-8dfc-4228-a181-28604252a212.png)">
+
+```## Live links (replace with your own)
+- [Follow this link to see Visibilidade Quilombola Live](https://douglasmbura.github.io/Visibility-Hackathon-WebApp)
+- [Storymap Google Sheets Template](https://docs.google.com/spreadsheets/d/11VYnIz8YSabM5ZYOTRxm_RcDkle0GM5hScj22YyLnug/edit#gid=0)
+- [Map Google Sheets template](https://docs.google.com/spreadsheets/d/1KQb2OiF1JI-UbHZ-EEXWbzAGYWVWe04ShtPjNJKvPxI/edit#gid=0)```
 
 
 
