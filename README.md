@@ -55,6 +55,7 @@ Here's are the steps:
 On the next screen, name your repo to ```visibility-hackathon-team-shiners``` or choose a different meaningful name in all lower-case. Click the Create repository from template button. Your copy of the repo will follow this format:```https://github.com/USERNAME/visibility-hackathon-team-shiners```
 4. In your new copy of the code repo, click the upper-right Settings button and scroll way down to the GitHub Pages area. In the drop-down menu, change Source from None to Main, keep the default /(root) setting, and press Save as shown in Figure below. This step tells GitHub to publish a live version of your map on the public web, where anyone can access it in their browser, if they have the web address.
 <img width="398" alt="leaflet-github-pages-main" src="https://user-images.githubusercontent.com/4737136/205280569-17167b5d-fd0a-4991-a820-6c43f33f60cd.png">
+
 5. Scroll down to GitHub Pages section again, and copy the link to your published web site, which will appear in this format:```https://USERNAME.github.io/visibility-hackathon-team-shiners```
 6. Scroll up to the top, and click on your repo name to go back to its main page.
 7. At the top level of your repo main page, click on README.md, and click the pencil icon to edit this file.
