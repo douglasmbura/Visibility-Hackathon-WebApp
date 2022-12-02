@@ -69,7 +69,8 @@ Follow this steps:
 3. Click the blue Share button, and click Change to anyone with the link, then click Done. This publicly shares your map data, which is required to make this template work.
 4. Go to File > Publish to the Web, and click the green Publish button to publish the entire document, so that the Leaflet code can read it. Then click the upper-right X symbol to close this window.
 5. At the top of your browser, copy your Google Sheet address or URL (which usually ends in ```...XYZ/edit#gid=0```), as shown in Figure below. Do NOT copy the Published to the web address (which usually ends in ```...XYZ/pubhtml```) because that link is slightly different and will not work in this template.
-<img width="653" alt="sheets-publish-annotated" src="https://user-images.githubusercontent.com/4737136/205365716-b16bf36e-79b5-4483-8358-560cee2134e6.png">
+<img width="216" alt="sheets-publish-annotated" src="https://user-images.githubusercontent.com/4737136/205366963-3247e209-8fba-4dbd-b92b-bb68ee0a1db2.png">
+
 
 
 ### C. Paste your Google Sheet browser address in two places in your GitHub repo.
