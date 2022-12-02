@@ -60,7 +60,7 @@ On the next screen, name your repo to ```visibility-hackathon-team-shiners``` or
 6. Scroll up to the top, and click on your repo name to go back to its main page.
 7. At the top level of your repo main page, click on README.md, and click the pencil icon to edit this file.
 8. Delete the link to the our live site, as shown in Figure below, and paste in the link to your published site. Scroll down to Commit your changes.
-<img width="398" alt="leaflet-github-pages-main" src="https://user-images.githubusercontent.com/4737136/205360924-35945f14-b88b-4f79-b747-4b296338a0c7.png">
+<img alt="leaflet-github-pages-main" src="https://user-images.githubusercontent.com/4737136/205360924-35945f14-b88b-4f79-b747-4b296338a0c7.png">
 
 
 ### B. File > Make a Copy of Google Sheet template, Share, and Publish.
