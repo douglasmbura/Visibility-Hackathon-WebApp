@@ -41,7 +41,7 @@ Before you begin, you must have the following:
 
 3. Make a Copy in Google Sheets of the Storymap Template: https://docs.google.com/spreadsheets/d/11VYnIz8YSabM5ZYOTRxm_RcDkle0GM5hScj22YyLnug/edit#gid=0 
 
-4. Make a Copy in Google Sheets of the Map Template:https://docs.google.com/spreadsheets/d/1KQb2OiF1JI-UbHZ-EEXWbzAGYWVWe04ShtPjNJKvPxI/edit#gid=0
+4. Make a Copy in Google Sheets of the Map Template: https://docs.google.com/spreadsheets/d/1KQb2OiF1JI-UbHZ-EEXWbzAGYWVWe04ShtPjNJKvPxI/edit#gid=0
 
 ## 1. Creating Storymap
 
