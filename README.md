@@ -63,7 +63,7 @@ See more in the tutorial https://handsondataviz.org/leaflet-storymaps-with-googl
 
 ## 2. Creating the Map
 
-A. Copy the GitHub template and publish your version with GitHub Pages.
+A. Copy the [GitHub template] (https://github.com/douglasmbura/Visibility-Hackathon-WebApp) and publish your version with GitHub Pages.
 
 B. File > Make a Copy of Google Sheet template, Share, and Publish.
 
