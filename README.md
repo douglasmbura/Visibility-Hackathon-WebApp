@@ -58,7 +58,7 @@ On the next screen, name your repo to ```visibility-hackathon-team-shiners``` or
 5. Scroll down to GitHub Pages section again, and copy the link to your published web site, which will appear in this format: ```https://USERNAME.github.io/visibility-hackathon-team-shiners```
 6. Scroll up to the top, and click on your repo name to go back to its main page.
 7. At the top level of your repo main page, click on README.md, and click the pencil icon to edit this file.
-8. Delete the link to the our live site, as shown in Figure 12.18, and paste in the link to your published site. Scroll down to Commit your changes.
+8. Delete the link to the our live site, as shown in Figure below, and paste in the link to your published site. Scroll down to Commit your changes.
 
 B. File > Make a Copy of Google Sheet template, Share, and Publish.
 
