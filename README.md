@@ -45,7 +45,7 @@ Before you begin, you must have the following:
 
 ## 1. Creating Storymap
 
-A. Copy the GitHub template and publish your version with GitHub Pages.
+### A. Copy the GitHub template and publish your version with GitHub Pages.
 
 Here's are the steps: 
 
