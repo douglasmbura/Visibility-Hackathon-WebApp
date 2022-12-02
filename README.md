@@ -1,7 +1,7 @@
 # Visibilidade Web Application
 "Visibilidade Quilombola" is a web-based application that emerged first place winner of GEO Indigenous Hack4Covid19 Hackathon that was held in the year 2020 at the height of COVID 19 pandemic. The web-mapping and data visualization tool solved the challenge that was submitted by Claudinete Cole de Souza - a leader of Quilombola community- who was seeking to develop an application that would allow the Quilombola community to tell a story of how COVID19 was affecting their lives. 
 
-Visibilidade is a fork and modified version of the original from https://github.com/JackDougherty/leaflet-storymap and has been customized with navigation bar and intuitive interface for a great user experience.
+Visibilidade is a modified version adopted from the original https://github.com/JackDougherty/leaflet-storymap and has been customized with navigation bar and intuitive interface for a great user experience.
 
 Members of team Visbilidade that built this tool included: Douglas Mbura  (Founder and Chief Technology Officer of Geo-Appsmith from Kenya)  and Rasha Elnimeiry, (Epidemiologist and GIS data specialist from Sudan). Visibilidade Quilombola was created to help the Indigenous Quilombola community in Brazil to become more visible by enabling the community to easily and quickly share their story of how Covid-19 was affecting their lives.
 
@@ -32,6 +32,16 @@ And
 - Map Google Sheets template:  https://docs.google.com/spreadsheets/d/1KQb2OiF1JI-UbHZ-EEXWbzAGYWVWe04ShtPjNJKvPxI/edit#gid=0
 
 ## Step-by-Step Guide to Creating Your Own
+## Requirements:
+Before you begin, you must have the following: 
+
+1. A Github account : https://github.com/
+
+2. A Google Drive account : https://drive.google.com/
+
+3. Make a Copy in Google Sheets of the Storymap Template: https://docs.google.com/spreadsheets/d/11VYnIz8YSabM5ZYOTRxm_RcDkle0GM5hScj22YyLnug/edit#gid=0 
+
+4. Make a Copy in Google Sheets of the Map Template:https://docs.google.com/spreadsheets/d/1KQb2OiF1JI-UbHZ-EEXWbzAGYWVWe04ShtPjNJKvPxI/edit#gid=0
 
 ## 1. Creating Storymap
 
