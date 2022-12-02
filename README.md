@@ -53,6 +53,9 @@ Here's are the steps:
 2. In the upper-right corner of the code template, sign in to your free GitHub account.
 3. In the upper-right corner, click the green Use this template button to make a copy of the repository in your GitHub account. 
 On the next screen, name your repo to ```visibility-hackathon-team-shiners``` or choose a different meaningful name in all lower-case. Click the Create repository from template button. Your copy of the repo will follow this format:```https://github.com/USERNAME/visibility-hackathon-team-shiners```
+4. In your new copy of the code repo, click the upper-right Settings button and scroll way down to the GitHub Pages area. In the drop-down menu, change Source from None to Main, keep the default /(root) setting, and press Save as shown in Figure below. This step tells GitHub to publish a live version of your map on the public web, where anyone can access it in their browser, if they have the web address.
+<img width="398" alt="leaflet-github-pages-main" src="https://user-images.githubusercontent.com/4737136/205280569-17167b5d-fd0a-4991-a820-6c43f33f60cd.png">
+
 
 B. File > Make a Copy of Google Sheet template, Share, and Publish.
 
