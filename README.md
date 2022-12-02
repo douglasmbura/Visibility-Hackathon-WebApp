@@ -61,17 +61,18 @@ On the next screen, name your repo to ```visibility-hackathon-team-shiners``` or
 7. At the top level of your repo main page, click on README.md, and click the pencil icon to edit this file.
 8. Delete the link to the our live site, as shown in Figure below, and paste in the link to your published site. Scroll down to Commit your changes.
 
-B. File > Make a Copy of Google Sheet template, Share, and Publish.
 
-C. Paste your Google Sheet browser address in two places in your GitHub repo.
+### B. File > Make a Copy of Google Sheet template, Share, and Publish.
 
-D. Update your Google Sheet Options tab info and refresh your live map.
+### C. Paste your Google Sheet browser address in two places in your GitHub repo.
 
-E. Add text, media, markers, and geocode locations in the Google Sheet Chapters tab.
+### D. Update your Google Sheet Options tab info and refresh your live map.
 
-F. Optional: Add georeferenced historical map image or GeoJSON overlays.
+### E. Add text, media, markers, and geocode locations in the Google Sheet Chapters tab.
 
-G. Save each Google Sheets tab as a CSV file and upload to GitHub.
+### F. Optional: Add georeferenced historical map image or GeoJSON overlays.
+
+### G. Save each Google Sheets tab as a CSV file and upload to GitHub.
 
 See more in the tutorial https://handsondataviz.org/leaflet-storymaps-with-google-sheets.html
 
