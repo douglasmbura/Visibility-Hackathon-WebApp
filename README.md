@@ -27,7 +27,7 @@ And
 
 
 ## Live links (replace with your own)
-- See Visibilidade Quilombola [Live](https: https://douglasmbura.github.io/Visibility-Hackathon-WebApp)
+- [Follow this link to see Visibilidade Quilombola Live](https: https://douglasmbura.github.io/Visibility-Hackathon-WebApp)
 - [Storymap Google Sheets Template](https://docs.google.com/spreadsheets/d/11VYnIz8YSabM5ZYOTRxm_RcDkle0GM5hScj22YyLnug/edit#gid=0)
 - [Map Google Sheets template](https://docs.google.com/spreadsheets/d/1KQb2OiF1JI-UbHZ-EEXWbzAGYWVWe04ShtPjNJKvPxI/edit#gid=0)
 
