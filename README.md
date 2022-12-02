@@ -51,7 +51,8 @@ Here's are the steps:
 
 1. Open the [GitHub code template](https://github.com/douglasmbura/Visibility-Hackathon-WebApp) in a new tab.
 2. In the upper-right corner of the code template, sign in to your free GitHub account.
-3. In the upper-right corner, click the green Use this template button to make a copy of the repository in your GitHub account. On the next screen, name your repo to visibility-hackathon-team-shiners or choose a different meaningful name in all lower-case. Click the Create repository from template button. Your copy of the repo will follow this format:https://github.com/USERNAME/visibility-hackathon-team-shiners
+3. In the upper-right corner, click the green Use this template button to make a copy of the repository in your GitHub account. 
+On the next screen, name your repo to ```visibility-hackathon-team-shiners``` or choose a different meaningful name in all lower-case. Click the Create repository from template button. Your copy of the repo will follow this format:```https://github.com/USERNAME/visibility-hackathon-team-shiners```
 
 B. File > Make a Copy of Google Sheet template, Share, and Publish.
 
