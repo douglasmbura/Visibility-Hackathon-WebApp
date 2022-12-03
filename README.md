@@ -78,7 +78,8 @@ Our next task is to link your published Google Sheet to your Leaflet code in Git
 
 <img width="908" alt="google-doc-url" src="https://user-images.githubusercontent.com/4737136/205434304-30acade6-ddf1-4f07-9b10-47cfa21cdfd2.png">
 3. Also, let’s paste your Google Sheet URL in second place to help you keep track of it. In your GitHub repo, click the README.md file to open it, click the pencil symbol to edit it, and paste your Google Sheet URL to replace our existing URL, as shown in Figure below. Scroll down to Commit your changes.
-<img width="930" alt="storymap-readme-link-bottom" src="https://user-images.githubusercontent.com/4737136/205434885-4cb1c434-bfc3-4187-b24c-c589f9033a5e.png">
+<img  alt="google-doc-url" src="https://user-images.githubusercontent.com/4737136/205435038-389a0da6-cc09-417e-a878-bfbbd8427585.png">
+
 
 ### D. Update your Google Sheet Options tab info and refresh your live map.
 
