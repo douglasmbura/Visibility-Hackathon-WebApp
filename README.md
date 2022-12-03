@@ -109,7 +109,7 @@ You can also insert a YouTube video embed link by following directions shown in 
 
 ### F. Optional: Add georeferenced historical map image or GeoJSON overlays.
 The code template allows you to enrich your story by placing two different types of layers on top of the background map: georeferenced map images (such as a historical map) and GeoJSON geodata (such as a pathway, boundary lines, or a color-coded choropleth map). You can add both types of layers to specific chapters or the entire story. Also, you can adjust the transparency level to reveal or hide the present-day background map. 
-Learn more about this [here](https://handsondataviz.org/transform.html)
+- Learn more about image and Geojson overlays [here](https://handsondataviz.org/transform.html)
 ### G. Save each Google Sheets tab as a CSV file and upload to GitHub.
 
 Learn more in this [tutorial](https://handsondataviz.org/leaflet-storymaps-with-google-sheets.html)
