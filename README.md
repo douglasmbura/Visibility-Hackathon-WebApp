@@ -103,11 +103,7 @@ You can also insert a YouTube video embed link by following directions shown in 
 - Media Credit Link: Add a direct link to the source info in the Media Credit text above.
 - Description: Designed to display about a paragraph or less of text for the Chapter. You may insert HTML tags to add line breaks (such as ```<br>```), or to open external links in a new tab, such as ```<a href='https://www.w3schools.com/' target='_blank'>Visit W3Schools</a>```. Learn about HTML syntax at W3Schools.
 - Zoom: Leaflet’s default zoom levels are between 0 (world view) to 18 (individual buildings), and most free basemap tiles, such as those provided by Stamen or CartoDB are available for each level in this range. There exist more detailed basemaps that allow you to use higher values. Experiment with zoom levels to get the best view for your story, and remember that given the same zoom level, larger screens will show larger areas compared to smaller screens, such as smartphones.
-- Marker: You can insert four options:
-- ```Numbered``` (auto-increment: 1, 2, 3, etc.)
-- ```Hidden``` (not visible, to avoid stacking markers on top of one another when multiple chapters focus on one location)
-- ```Plain``` (marker visible, but no label inside)
-- or customize by inserting any number, letter, or emoji. Works best when auto-increment does not display your desired output.
+- Marker: You can insert four options: -```Numbered``` (auto-increment: 1, 2, 3, etc.) - ```Hidden``` (not visible, to avoid stacking markers on top of one another when multiple chapters focus on one location) - ```Plain``` (marker visible, but no label inside) - or customize by inserting any number, letter, or emoji. Works best when auto-increment does not display your desired output.
 - Marker Color: Insert any standard web color name such as ```blue``` or ```green```, or insert a web color code such as ```#775307``` or ```rgba(200,100,0,0.5)```. See options at [W3Schools Color Names](https://www.w3schools.com/colors/colors_names.asp).
 
 ### F. Optional: Add georeferenced historical map image or GeoJSON overlays.
