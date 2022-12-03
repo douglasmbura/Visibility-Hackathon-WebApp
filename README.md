@@ -91,6 +91,21 @@ Now that your published Google Sheet is linked to your live map, go to the Optio
 Open the browser tab that displays your live map and refresh the page to see your changes.
 
 ### E. Add text, media, markers, and geocode locations in the Google Sheet Chapters tab.
+Now we can start to add new content to your map. In the Chapters tab of your Google Sheet, you’ll see column headers to organize and display interactive markers on your map. Replace the demonstration data with your own, but do not delete or rename the column headers, since the Leaflet code looks for these specific names.
+- Chapter: The title appearing at the top of each section in the scrolling narrative.
+- Media Link: You have several options to display either an image, audio, or video in each chapter. For images, you can insert an external link to an online service (such as Flickr), as long as it begins with ```https``` (secure) and ends with either ```.jpg```` or ```.png```. You can also insert a YouTube video embed link by following directions shown in the YouTube section of the template. Or you can upload an image file into the media subfolder in your GitHub repo, as shown in Figure below, and enter the pathname in the Google Sheet in this format: ```media/your-file-name.jpg``` or ```...png```. Similarly, you can upload an audio file in ```.mp3``` (recommended) or ```.ogg``` or ```.wav``` format.
+
+<img width="324" alt="sheets-publish-annotated" src="https://user-images.githubusercontent.com/4737136/205437215-b956bd9c-7fdb-4d06-ac6b-99061f7cf8ca.png">
+
+- Media Credit: To display text about the origin of the media, such as “Source:…”.
+- Media Credit Link: Add a direct link to the source info in the Media Credit text above.
+- Description: Designed to display about a paragraph or less of text for the Chapter. You may insert HTML tags to add line breaks (such as ```<br>```), or to open external links in a new tab, such as ```<a href='https://www.w3schools.com/' target='_blank'>Visit W3Schools</a>```. Learn about HTML syntax at W3Schools.
+- Zoom: Leaflet’s default zoom levels are between 0 (world view) to 18 (individual buildings), and most free basemap tiles, such as those provided by Stamen or CartoDB are available for each level in this range. There exist more detailed basemaps that allow you to use higher values. Experiment with zoom levels to get the best view for your story, and remember that given the same zoom level, larger screens will show larger areas compared to smaller screens, such as smartphones.
+- Marker: You can insert four options:
+--```Numbered``` (auto-increment: 1, 2, 3, etc.)
+--```Hidden``` (not visible, to avoid stacking markers on top of one another when multiple chapters focus on one location)
+--```Plain``` (marker visible, but no label inside)
+---or customize by inserting any number, letter, or emoji. Works best when auto-increment does not display your desired output.
 
 ### F. Optional: Add georeferenced historical map image or GeoJSON overlays.
 
