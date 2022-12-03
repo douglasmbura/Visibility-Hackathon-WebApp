@@ -125,19 +125,17 @@ If you have finished entering most of your data into your Google Sheets, downloa
 
 ## 2. Creating the Map
 
-A. Copy the [GitHub template](https://github.com/douglasmbura/Visibility-Hackathon-WebApp) and publish your version with GitHub Pages.
+A. File > Make a Copy of Google Sheet template, Share, and Publish.
 
-B. File > Make a Copy of Google Sheet template, Share, and Publish.
+B. Paste your Google Sheet browser address in two places in your GitHub repo.
 
-C. Paste your Google Sheet browser address in two places in your GitHub repo.
+C. Update your Google Sheet Options tab info and refresh your live map.
 
-D. Update your Google Sheet Options tab info and refresh your live map.
+D. Geocode locations and customize new markers in the Points tab.
 
-E. Geocode locations and customize new markers in the Points tab.
+E. Remove or display point, polygon, or polylines data and legends.
 
-F. Remove or display point, polygon, or polylines data and legends.
-
-G. Save each Google Sheets tab as a CSV file and upload to GitHub.
+F. Save each Google Sheets tab as a CSV file and upload to GitHub.
 
 
 
