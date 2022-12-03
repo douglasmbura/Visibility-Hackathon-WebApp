@@ -95,7 +95,7 @@ Now we can start to add new content to your map. In the Chapters tab of your Goo
 - Chapter: The title appearing at the top of each section in the scrolling narrative.
 - Media Link: You have several options to display either an image, audio, or video in each chapter. For images, you can insert an external link to an online service (such as Flickr), as long as it begins with ```https``` (secure) and ends with either ```.jpg```` or ```.png```. 
  
-You can also insert a YouTube video embed link by following directions shown in the YouTube section of the template. Or you can upload an image file into the media subfolder in your GitHub repo, as shown in Figure below, and enter the pathname in the Google Sheet in this format: ```media/your-file-name.jpg``` or ```...png```. Similarly, you can upload an audio file in ```.mp3``` (recommended) or ```.ogg``` or ```.wav``` format.
+You can also insert a YouTube video embed link by following directions shown in the YouTube section of the template. Or you can upload an image file into the media subfolder in your GitHub repo, as shown in Figure below, and enter the pathname in the Google Sheet in this format: ```media/your-file-name.jpg``` or ...```png```. Similarly, you can upload an audio file in ```.mp3``` (recommended) or ```.ogg``` or ```.wav``` format.
 
 <img width="648" alt="storymap-media-upload" src="https://user-images.githubusercontent.com/4737136/205437611-105826c4-81eb-4f68-baf9-c8c01d96faa1.png">
 
