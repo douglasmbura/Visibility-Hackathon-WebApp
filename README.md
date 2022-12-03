@@ -83,11 +83,13 @@ Our next task is to link your published Google Sheet to your Leaflet code in Git
 ### D. Update your Google Sheet Options tab info and refresh your live map.
 Now that your published Google Sheet is linked to your live map, go to the Options tab to update any of these items:
 - Storymap Title
-- Storymap Subtitle – with code for downward arrow: <br><small>Scroll down <i class='fa fa-chevron-down'></i></small>
+- Storymap Subtitle – with code for downward arrow: ```<br><small>Scroll down <i class='fa fa-chevron-down'></i></small>```
 - Author Name
 - Author Email or Website
 - Author GitHub Repo Link
+
 Open the browser tab that displays your live map and refresh the page to see your changes.
+
 ### E. Add text, media, markers, and geocode locations in the Google Sheet Chapters tab.
 
 ### F. Optional: Add georeferenced historical map image or GeoJSON overlays.
