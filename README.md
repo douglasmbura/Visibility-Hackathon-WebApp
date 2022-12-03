@@ -75,6 +75,9 @@ Follow this steps:
 Our next task is to link your published Google Sheet to your Leaflet code in GitHub, so that it can pull your data from the Sheet to display on the map.
 1. At the top of your GitHub repo, click to open the file named ```google-doc-url.js```, and click the pencil symbol to edit it.
 2. Paste your Google Sheet address or URL (which usually ends in ```...XYZ/edit#gid=0)``` to replace our existing URL, as shown in Figure below. Be careful NOT to erase the single quotation marks or the semicolon at the end. Scroll down to Commit your changes. See separate instructions about the Google API key further below.
+
+<img width="908" alt="google-doc-url" src="https://user-images.githubusercontent.com/4737136/205434304-30acade6-ddf1-4f07-9b10-47cfa21cdfd2.png">
+
 ### D. Update your Google Sheet Options tab info and refresh your live map.
 
 ### E. Add text, media, markers, and geocode locations in the Google Sheet Chapters tab.
