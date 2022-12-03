@@ -115,6 +115,7 @@ If you have finished entering most of your data into your Google Sheets, downloa
 1. In your Google Sheets, go to each tab and select File > Download into CSV format, as shown in Figure below, to create a separate file for each tab.
 <img width="491" alt="storymap-download-csv" src="https://user-images.githubusercontent.com/4737136/205439180-f6789fbd-570d-4a7b-9b21-faafa8ab0c05.png">
 2. Shorten each file name as shown. The names must be exact. The first two files below are required, and others are optional.
+
 - Chapters.csv
 - Options.csv
 - Notes.csv (or .txt) Recommended to keep any notes with your data, but not required.
