@@ -111,8 +111,16 @@ You can also insert a YouTube video embed link by following directions shown in 
 The code template allows you to enrich your story by placing two different types of layers on top of the background map: georeferenced map images (such as a historical map) and GeoJSON geodata (such as a pathway, boundary lines, or a color-coded choropleth map). You can add both types of layers to specific chapters or the entire story. Also, you can adjust the transparency level to reveal or hide the present-day background map. 
 - Learn more about image and Geojson overlays [here](https://handsondataviz.org/transform.html)
 ### G. Save each Google Sheets tab as a CSV file and upload to GitHub.
-
-Learn more in this [tutorial](https://handsondataviz.org/leaflet-storymaps-with-google-sheets.html)
+If you have finished entering most of your data into your Google Sheets, downloading them into separate CSV files and uploading those into your GitHub repo is the best long-term preservation strategy. This approach keeps your map and data together in the same GitHub repo, and removes the risk that your map will break due to an interruption to Google services. Plus, you can still edit your map data. If this approach makes sense, follow these steps:
+1. In your Google Sheets, go to each tab and select File > Download into CSV format, as shown in Figure below, to create a separate file for each tab.
+<img width="491" alt="storymap-download-csv" src="https://user-images.githubusercontent.com/4737136/205439180-f6789fbd-570d-4a7b-9b21-faafa8ab0c05.png">
+2. Shorten each file name as shown. The names must be exact. The first two files below are required, and others are optional.
+- Chapters.csv
+- Options.csv
+- Notes.csv (or .txt) Recommended to keep any notes with your data, but not required.
+3. In your GitHub repo, click the ```csv``` subfolder to open it, select Add file > Upload files, and upload all of the CSV files above into this subfolder, as shown in Figure below. The Leaflet template code checks here first for data, and if it finds CSV files with the names above, it will pull the map data directly from them, instead of your Google Sheets. Remember that from this point forward, any edits in your Google Sheet will no longer appear automatically in your map.
+<img width="674" alt="storymap-upload-csv" src="https://user-images.githubusercontent.com/4737136/205439297-a5fa0328-a613-4f4b-868e-311ede2aacdb.png">
+4. If you wish to edit your map after uploading your CSV files, you have two options. You can make small edits directly to your CSV files by opening them in the GitHub web interface. Or you can make larger edits in the Google Sheet, and repeating the steps above to download them in CSV format and upload them to replace your existing files on GitHub.
 
 ## 2. Creating the Map
 
@@ -129,16 +137,7 @@ E. Geocode locations and customize new markers in the Points tab.
 F. Remove or display point, polygon, or polylines data and legends.
 
 G. Save each Google Sheets tab as a CSV file and upload to GitHub.
-If you have finished entering most of your data into your Google Sheets, downloading them into separate CSV files and uploading those into your GitHub repo is the best long-term preservation strategy. This approach keeps your map and data together in the same GitHub repo, and removes the risk that your map will break due to an interruption to Google services. Plus, you can still edit your map data. If this approach makes sense, follow these steps:
-1. In your Google Sheets, go to each tab and select File > Download into CSV format, as shown in Figure below, to create a separate file for each tab.
-<img width="491" alt="storymap-download-csv" src="https://user-images.githubusercontent.com/4737136/205439180-f6789fbd-570d-4a7b-9b21-faafa8ab0c05.png">
-2. Shorten each file name as shown. The names must be exact. The first two files below are required, and others are optional.
-- Chapters.csv
-- Options.csv
-- Notes.csv (or .txt) Recommended to keep any notes with your data, but not required.
-3. In your GitHub repo, click the ```csv``` subfolder to open it, select Add file > Upload files, and upload all of the CSV files above into this subfolder, as shown in Figure below. The Leaflet template code checks here first for data, and if it finds CSV files with the names above, it will pull the map data directly from them, instead of your Google Sheets. Remember that from this point forward, any edits in your Google Sheet will no longer appear automatically in your map.
-<img width="674" alt="storymap-upload-csv" src="https://user-images.githubusercontent.com/4737136/205439297-a5fa0328-a613-4f4b-868e-311ede2aacdb.png">
-4. If you wish to edit your map after uploading your CSV files, you have two options. You can make small edits directly to your CSV files by opening them in the GitHub web interface. Or you can make larger edits in the Google Sheet, and repeating the steps above to download them in CSV format and upload them to replace your existing files on GitHub.
+
 
 
 ## Credits (and licenses)
