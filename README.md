@@ -105,12 +105,14 @@ You can also insert a YouTube video embed link by following directions shown in 
 - Zoom: Leaflet’s default zoom levels are between 0 (world view) to 18 (individual buildings), and most free basemap tiles, such as those provided by Stamen or CartoDB are available for each level in this range. There exist more detailed basemaps that allow you to use higher values. Experiment with zoom levels to get the best view for your story, and remember that given the same zoom level, larger screens will show larger areas compared to smaller screens, such as smartphones.
 - Marker: You can insert four options: -```Numbered``` (auto-increment: 1, 2, 3, etc.) - ```Hidden``` (not visible, to avoid stacking markers on top of one another when multiple chapters focus on one location) - ```Plain``` (marker visible, but no label inside) - or customize by inserting any number, letter, or emoji. Works best when auto-increment does not display your desired output.
 - Marker Color: Insert any standard web color name such as ```blue``` or ```green```, or insert a web color code such as ```#775307``` or ```rgba(200,100,0,0.5)```. See options at [W3Schools Color Names](https://www.w3schools.com/colors/colors_names.asp).
+- Location, Latitude, Longitude: These place your markers at points on the map. Although the code template only requires ```Latitude``` and ```Longitude```, it’s wise to paste an address or place name into the Location column as a reminder to correspond with the numerical coordinates.
 
 ### F. Optional: Add georeferenced historical map image or GeoJSON overlays.
-
+The code template allows you to enrich your story by placing two different types of layers on top of the background map: georeferenced map images (such as a historical map) and GeoJSON geodata (such as a pathway, boundary lines, or a color-coded choropleth map). You can add both types of layers to specific chapters or the entire story. Also, you can adjust the transparency level to reveal or hide the present-day background map. 
+Learn more about this [here](https://handsondataviz.org/transform.html)
 ### G. Save each Google Sheets tab as a CSV file and upload to GitHub.
 
-See more in the tutorial https://handsondataviz.org/leaflet-storymaps-with-google-sheets.html
+Learn more in this [tutorial](https://handsondataviz.org/leaflet-storymaps-with-google-sheets.html)
 
 ## 2. Creating the Map
 
