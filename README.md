@@ -203,6 +203,8 @@ The Leaflet template code checks here first for data, and if it finds CSV files 
 
 <img width="656" alt="leaflet-upload-csv" src="https://user-images.githubusercontent.com/4737136/205484812-88dc1977-0349-41c0-b839-a6d4e3d44b12.png">
 4. If you wish to edit your map after uploading your CSV files, you have two options. You can make small edits directly to your CSV files by opening them in the GitHub web interface. Or you can make larger edits in the Google Sheet, and repeating the steps above to download them in CSV format and upload them to replace your existing files on GitHub.
+
+
 ## Credits (and licenses)
 Adopted from code developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Connecticut Humanities and Trinity College, CT. Inspired by Code for Atlanta mapsfor.us (2016) https://github.com/codeforatlanta/mapsforus (BSD-3-Clause). Adapted from MUX Lab, Map Effects 100: https://github.com/muxlab/map-effects-100, see http://muxlab.github.io/map-effects-100/Leaflet/11_scroll-driven-map-navigation.html.
 
