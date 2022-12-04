@@ -175,9 +175,34 @@ To remove polygons:
 - Also in the Polygons tab, set Polygon GeoJSON URL (cell B6) to remove that data from your map.
 - In the next tab Polygons1, use the tab drop-down menu to select Delete to remove the entire sheet.
 
-After you’ve prepared your GeoJSON data, name the files using all lower-case characters and no spaces, and upload them into the geojson subfolder of your GitHub repo. Then update these settings in your linked Google Sheet:
-#### F. Save each Google Sheets tab as a CSV file and upload to GitHub.
+After you’ve prepared your GeoJSON data, name the files using all lower-case characters and no spaces, and upload them into the ```geojson``` subfolder inside the ```map``` folder of your GitHub repo. Then update these settings in your linked Google Sheet:
+To display polylines:
+- In the Options tab, make sure Polyline Legend Position (cell B36) is visible by selecting topleft or a similar position.
+- In the Polylines tab, enter the GeoJSON URL pathname to the file you uploaded to your GitHub repo, such as ```geodata/polylines.geojson```. Then insert a Display Name, Description, and Color.
 
+To display polygons:
+- In the Polygons tab, make sure Polygon Legend Position (cell B4) is visible by selecting topleft or a similar position.
+- In Polygon GeoJSON URL (cell B6) enter the pathname to the file you uploaded to your GitHub repo, such as ```geodata/polygons.geojson```.
+- You can change the Polygon Legend Title (cell B3) and add an optional Polygon Legend Icon (cell B5).
+- Edit the Polygon Data and Color Settings sections to modify the labels and ranges to align with the properties of your GeoJSON file. In the Property Range Color Palette, you can automatically select a color scheme from the ColorBrewer tool, or manually insert colors of your choice in the cell below.
+- Read the Hints column in the Polygons sheet for tips on how to enter data.
+- If you wish to display multiple polygon layers, use the Polygons tab drop-down menu to Duplicate the sheet, and name additional sheets in this format: Polygons1, Polygons2, etc.
+#### F. Save each Google Sheets tab as a CSV file and upload to GitHub.
+If you have finished entering most of your data into your Google Sheets, downloading them into separate CSV files and uploading those into your GitHub repo is the best long-term preservation strategy. This approach keeps your map and data together in the same GitHub repo, and removes the risk that your map will break due to an interruption to Google services. Plus, you can still edit your map data. If this approach makes sense, follow these steps:
+1. In your Google Sheets, go to each tab and select File > Download into CSV format, as shown in Figure below, to create a separate file for each tab.
+<img width="455" alt="sheets-download-csv" src="https://user-images.githubusercontent.com/4737136/205484637-0b93ebfa-e0fb-4a5d-8648-89073b50218b.png">
+2. Shorten each file name as shown. The names must be exact. Only the first file below (Options.csv) is required, and others are optional, depending on your data.
+- Options.csv
+- Points.csv
+- Polylines.csv
+- Polygons.csv (If additional files, name them: Polygons1.csv, Polygons2.csv, etc.)
+- Notes.csv (or .txt) Recommended to keep any notes with your data, but not required.
+
+3. In your GitHub repo, click the ```map```` > then ```csv``` subfolder to open it, select Add file > Upload files, and upload all of the CSV files above into this subfolder as shown in Figure below. 
+The Leaflet template code checks here first for data, and if it finds CSV files with the names above, it will pull the map data directly from them, instead of your Google Sheets. Remember that from this point forward, any edits in your Google Sheet will no longer appear automatically in your map.
+
+<img width="656" alt="leaflet-upload-csv" src="https://user-images.githubusercontent.com/4737136/205484812-88dc1977-0349-41c0-b839-a6d4e3d44b12.png">
+4. If you wish to edit your map after uploading your CSV files, you have two options. You can make small edits directly to your CSV files by opening them in the GitHub web interface. Or you can make larger edits in the Google Sheet, and repeating the steps above to download them in CSV format and upload them to replace your existing files on GitHub.
 ## Credits (and licenses)
 Adopted from code developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Connecticut Humanities and Trinity College, CT. Inspired by Code for Atlanta mapsfor.us (2016) https://github.com/codeforatlanta/mapsforus (BSD-3-Clause). Adapted from MUX Lab, Map Effects 100: https://github.com/muxlab/map-effects-100, see http://muxlab.github.io/map-effects-100/Leaflet/11_scroll-driven-map-navigation.html.
 
