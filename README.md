@@ -115,7 +115,6 @@ If you have finished entering most of your data into your Google Sheets, downloa
 1. In your Google Sheets, go to each tab and select File > Download into CSV format, as shown in Figure below, to create a separate file for each tab.
 <img width="491" alt="storymap-download-csv" src="https://user-images.githubusercontent.com/4737136/205439180-f6789fbd-570d-4a7b-9b21-faafa8ab0c05.png">
 2. Shorten each file name as shown. The names must be exact. The first two files below are required, and others are optional.
-
 - Chapters.csv
 - Options.csv
 - Notes.csv (or .txt) Recommended to keep any notes with your data, but not required.
@@ -135,6 +134,7 @@ Our next task is to link your published Google Sheet to your Leaflet code in Git
 1. At the top of your GitHub repo, click to open the file named ```google-doc-url.js```, and click the pencil symbol to edit it.
 2. Paste your Google Sheet address or URL (which usually ends in ````...XYZ/edit#gid=0````) to replace our existing URL, as shown in Figure below. Be careful NOT to erase the single quotation marks or the semicolon at the end. Scroll down to Commit your changes.
 <img width="908" alt="google-doc-url (1)" src="https://user-images.githubusercontent.com/4737136/205481132-9144428e-c0a7-43dd-bd62-73ba7a9ac681.png">
+
 ### C. Update your Google Sheet Options tab info and refresh your live map.
 
 ### D. Geocode locations and customize new markers in the Points tab.
