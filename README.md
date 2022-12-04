@@ -124,7 +124,7 @@ If you have finished entering most of your data into your Google Sheets, downloa
 4. If you wish to edit your map after uploading your CSV files, you have two options. You can make small edits directly to your CSV files by opening them in the GitHub web interface. Or you can make larger edits in the Google Sheet, and repeating the steps above to download them in CSV format and upload them to replace your existing files on GitHub.
 
 ## 2. Creating the Map
-Please note that the files supporting the Map are located inside the ``map``` folder of your GitHub repo. See figure below.
+Please note that the files supporting the Map are located inside the ```map``` folder of your GitHub repo. See figure below.
 
 ### A. File > Make a Copy of Google Sheet template, Share, and Publish.
 - Follow the exact same steps as the Google Sheet Storymap template.
