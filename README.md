@@ -153,7 +153,11 @@ Open the browser tab that displays your live map and refresh the page to see you
 Now we can start to add new content to your map. In the Points tab of your Google Sheet, you’ll see column headers to organize and display interactive markers on your map. Replace the demonstration data with your own, but do not delete or rename the column headers, since the Leaflet code looks for these specific names.
 
 - Group: Create any labels to categorize groups of markers in your legend.
-- Marker Icon: Insert a Font Awesome free and solid icon name such as ```fa-ice-cream``` or ```fa-coffee```, or any Material Design icon name such as ```rowing``` or ```where_to_vote```. You can also use custom indigenous icons such ```fc_bird```, ```fc_canoe```, ```fc_spear_fishing``` etc. or create and use your own custom icons.  
+- Marker Icon: Insert a Font Awesome free and solid icon name such as ```fa-ice-cream``` or ```fa-coffee```, or any Material Design icon name such as ```rowing``` or ```where_to_vote```. You can also use custom indigenous icons such ```fc_bird```, ```fc_canoe```, ```fc_spear_fishing``` etc. or create and use your own custom icons. 
+
+The next set of columns include items that appear when users click on point markers: 
+- Name: Add a title to display in the marker pop-up window.
+- Description: Add text to appear in the marker pop-up window. You may insert HTML tags to add line breaks (such as ```<br>```), or to open external links in a new tab, such as ````<a href='https://www.w3schools.com/' target='_blank'>Visit W3Schools</a>```. Learn about HTML syntax at [W3Schools](https://www.w3schools.com/html/html_links.asp).
 ### E. Remove or display point, polygon, or polylines data and legends.
 
 #### F. Save each Google Sheets tab as a CSV file and upload to GitHub.
