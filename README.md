@@ -125,7 +125,8 @@ If you have finished entering most of your data into your Google Sheets, downloa
 
 ## 2. Creating the Map
 Please note that the files supporting the Map are located inside the ```map``` folder of your GitHub repo. See figure below.
-<img alt="storymap-media-upload" src="https://user-images.githubusercontent.com/4737136/205481411-da9ef527-846f-467b-b8a8-44d10d7dd949.png">
+<img alt="storymap-download-csv" src="https://user-images.githubusercontent.com/4737136/205481544-79fdf78b-4064-42a1-b42c-06b3619cc018.png">
+
 
 ### A. File > Make a Copy of Google Sheet template, Share, and Publish.
 - Follow the exact same steps as the Google Sheet Storymap template.
