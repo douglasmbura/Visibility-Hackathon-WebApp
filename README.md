@@ -131,9 +131,13 @@ Please note that the files supporting the Map are located inside the ```map``` f
 - Follow the exact same steps as the Google Sheet Storymap template.
 ### B. Paste your Google Sheet browser address in two places in your GitHub repo.
 Our next task is to link your published Google Sheet to your Leaflet code in GitHub, so that it can pull your data from the Sheet to display on the map.
-1. At the top of your GitHub repo, click to open the file named ```google-doc-url.js```, and click the pencil symbol to edit it.
+1. At the top of your GitHub repo, click to open the ```map``` folder and then open file named ```google-doc-url.js```, and click the pencil symbol to edit it.
 2. Paste your Google Sheet address or URL (which usually ends in ````...XYZ/edit#gid=0````) to replace our existing URL, as shown in Figure below. Be careful NOT to erase the single quotation marks or the semicolon at the end. Scroll down to Commit your changes.
 <img width="908" alt="google-doc-url (1)" src="https://user-images.githubusercontent.com/4737136/205481132-9144428e-c0a7-43dd-bd62-73ba7a9ac681.png">
+
+3. Also, let’s paste your Google Sheet URL in second place to help you keep track of it. In your GitHub repo, click the README.md file to open it, click the pencil symbol to edit it, and paste your Google Sheet URL to replace our existing URL, as shown in Figure below. Scroll down to Commit your changes.
+
+<img alt="storymap-download-csv" src="https://user-images.githubusercontent.com/4737136/205482257-40a59278-c015-4d27-aa45-9b53b1c4b62c.png">
 
 ### C. Update your Google Sheet Options tab info and refresh your live map.
 
