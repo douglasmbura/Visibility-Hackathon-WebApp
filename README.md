@@ -157,7 +157,7 @@ Now we can start to add new content to your map. In the Points tab of your Googl
 
 The next set of columns include items that appear when users click on point markers: 
 - Name: Add a title to display in the marker pop-up window.
-- Description: Add text to appear in the marker pop-up window. You may insert HTML tags to add line breaks (such as ```<br>```), or to open external links in a new tab, such as ````<a href='https://www.w3schools.com/' target='_blank'>Visit W3Schools</a>```. Learn about HTML syntax at [W3Schools](https://www.w3schools.com/html/html_links.asp).
+- Description: Add text to appear in the marker pop-up window. You may insert HTML tags to add line breaks (such as ```<br>```), or to open external links in a new tab, such as ```<a href='https://www.w3schools.com/' target='_blank'>Visit W3Schools</a>```. Learn about HTML syntax at [W3Schools](https://www.w3schools.com/html/html_links.asp).
 ### E. Remove or display point, polygon, or polylines data and legends.
 
 #### F. Save each Google Sheets tab as a CSV file and upload to GitHub.
