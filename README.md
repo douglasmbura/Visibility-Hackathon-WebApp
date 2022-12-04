@@ -159,9 +159,23 @@ The next set of columns include items that appear when users click on point mark
 - Name: Add a title to display in the marker pop-up window.
 - Description: Add text to appear in the marker pop-up window. You may insert HTML tags to add line breaks (such as ```<br>```), or to open external links in a new tab, such as ```<a href='https://www.w3schools.com/' target='_blank'>Visit W3Schools</a>```. Learn about HTML syntax at [W3Schools](https://www.w3schools.com/html/html_links.asp).
 - Image: You have two options to display images. You can insert an external link to an image hosted by an online service (such as Flickr), as long as it begins with ```https``` (secure) and ends with either ```.jpg``` or ```.png```. Or you can upload an image into the ```media``` subfolder inside your ```map``` folder in GitHub repo, and enter the pathname in the Google Sheet in this format: ```media/image.jpg``` or ```...png```.
-- 
-### E. Remove or display point, polygon, or polylines data and legends.
+- Location, Latitude, Longitude: These place your markers at points on the map. Although the code template only requires Latitude and Longitude, it’s wise to paste an address or place name into the Location column as a reminder to correspond with the numerical coordinates. 
 
+### E. Remove or display point, polygon, or polylines data and legends.
+By default, the demo map displays three types of data—points, polygons, and polylines—and their legends. You can remove any of these from your map by modifying your linked Google Sheet:
+To remove points:
+- In the Options tab, set Point Legend Position (cell B27) to Off to hide it.
+- In the Points tab, delete all rows of point data.
+To remove polylines:
+- In the Options tab, set Polyline Legend Position (cell B36) to Off to hide it.
+- In the Polylines tab, delete all rows of polyline data.
+
+To remove polygons:
+- In the Polygons tab, set Polygon Legend Position (cell B4) to Off to hide it.
+- Also in the Polygons tab, set Polygon GeoJSON URL (cell B6) to remove that data from your map.
+- In the next tab Polygons1, use the tab drop-down menu to select Delete to remove the entire sheet.
+
+After you’ve prepared your GeoJSON data, name the files using all lower-case characters and no spaces, and upload them into the geojson subfolder of your GitHub repo. Then update these settings in your linked Google Sheet:
 #### F. Save each Google Sheets tab as a CSV file and upload to GitHub.
 
 ## Credits (and licenses)
