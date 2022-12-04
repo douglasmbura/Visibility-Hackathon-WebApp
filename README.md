@@ -124,18 +124,22 @@ If you have finished entering most of your data into your Google Sheets, downloa
 4. If you wish to edit your map after uploading your CSV files, you have two options. You can make small edits directly to your CSV files by opening them in the GitHub web interface. Or you can make larger edits in the Google Sheet, and repeating the steps above to download them in CSV format and upload them to replace your existing files on GitHub.
 
 ## 2. Creating the Map
-Please note that the files map 
+Please note that the files supporting the Map are located inside the ``map``` folder of your GitHub repo. See figure below.
+
 ### A. File > Make a Copy of Google Sheet template, Share, and Publish.
 - Follow the exact same steps as the Google Sheet Storymap template.
 ### B. Paste your Google Sheet browser address in two places in your GitHub repo.
+Our next task is to link your published Google Sheet to your Leaflet code in GitHub, so that it can pull your data from the Sheet to display on the map.
+1. At the top of your GitHub repo, click to open the file named ```google-doc-url.js```, and click the pencil symbol to edit it.
+2. Paste your Google Sheet address or URL (which usually ends in ````...XYZ/edit#gid=0````) to replace our existing URL, as shown in Figure below. Be careful NOT to erase the single quotation marks or the semicolon at the end. Scroll down to Commit your changes.
+<img width="908" alt="google-doc-url (1)" src="https://user-images.githubusercontent.com/4737136/205481132-9144428e-c0a7-43dd-bd62-73ba7a9ac681.png">
+### C. Update your Google Sheet Options tab info and refresh your live map.
 
-C. Update your Google Sheet Options tab info and refresh your live map.
+### D. Geocode locations and customize new markers in the Points tab.
 
-D. Geocode locations and customize new markers in the Points tab.
+### E. Remove or display point, polygon, or polylines data and legends.
 
-E. Remove or display point, polygon, or polylines data and legends.
-
-F. Save each Google Sheets tab as a CSV file and upload to GitHub.
+#### F. Save each Google Sheets tab as a CSV file and upload to GitHub.
 
 
 
