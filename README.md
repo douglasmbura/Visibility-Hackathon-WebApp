@@ -158,6 +158,8 @@ Now we can start to add new content to your map. In the Points tab of your Googl
 The next set of columns include items that appear when users click on point markers: 
 - Name: Add a title to display in the marker pop-up window.
 - Description: Add text to appear in the marker pop-up window. You may insert HTML tags to add line breaks (such as ```<br>```), or to open external links in a new tab, such as ```<a href='https://www.w3schools.com/' target='_blank'>Visit W3Schools</a>```. Learn about HTML syntax at [W3Schools](https://www.w3schools.com/html/html_links.asp).
+- Image: You have two options to display images. You can insert an external link to an image hosted by an online service (such as Flickr), as long as it begins with ```https``` (secure) and ends with either ```.jpg``` or ```.png```. Or you can upload an image into the ```media``` subfolder inside your ```map``` folder in GitHub repo, and enter the pathname in the Google Sheet in this format: ```media/image.jpg``` or ```...png```.
+- 
 ### E. Remove or display point, polygon, or polylines data and legends.
 
 #### F. Save each Google Sheets tab as a CSV file and upload to GitHub.
