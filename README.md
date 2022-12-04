@@ -140,14 +140,23 @@ Our next task is to link your published Google Sheet to your Leaflet code in Git
 <img alt="storymap-download-csv" src="https://user-images.githubusercontent.com/4737136/205482257-40a59278-c015-4d27-aa45-9b53b1c4b62c.png">
 
 ### C. Update your Google Sheet Options tab info and refresh your live map.
+Now that your published Google Sheet is linked to your live map, go to the Options tab to update any of these items:
+
+- Map Title
+- Map Subtitle
+- Author Name
+- Author Email or Website
+- Author Code Repo
+Open the browser tab that displays your live map and refresh the page to see your changes.
 
 ### D. Geocode locations and customize new markers in the Points tab.
+Now we can start to add new content to your map. In the Points tab of your Google Sheet, you’ll see column headers to organize and display interactive markers on your map. Replace the demonstration data with your own, but do not delete or rename the column headers, since the Leaflet code looks for these specific names.
 
+- Group: Create any labels to categorize groups of markers in your legend.
+- Marker Icon: Insert a Font Awesome free and solid icon name such as ```fa-ice-cream``` or ```fa-coffee```, or any Material Design icon name such as ```rowing``` or ```where_to_vote```. You can also use custom indigenous icons such ```fc_bird```, ```fc_canoe```, ```fc_spear_fishing``` etc. or create and use your own custom icons.  
 ### E. Remove or display point, polygon, or polylines data and legends.
 
 #### F. Save each Google Sheets tab as a CSV file and upload to GitHub.
-
-
 
 ## Credits (and licenses)
 Adopted from code developed by [Ilya Ilyankou](https://github.com/ilyankou) and [Jack Dougherty](https://github.com/jackdougherty) with support from Connecticut Humanities and Trinity College, CT. Inspired by Code for Atlanta mapsfor.us (2016) https://github.com/codeforatlanta/mapsforus (BSD-3-Clause). Adapted from MUX Lab, Map Effects 100: https://github.com/muxlab/map-effects-100, see http://muxlab.github.io/map-effects-100/Leaflet/11_scroll-driven-map-navigation.html.
